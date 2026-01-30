@@ -9,9 +9,10 @@
 
 ## 🚀 About Me
 
-<table>
+<table width="100%">
 <tr>
-<td width="60%">
+
+<td width="65%">
 
 - 🔐 Passionate about **Cybersecurity & Pentesting**
 - 📱 Application engineer using **Kotlin & React Native**
@@ -23,11 +24,12 @@
 
 </td>
 
-<td width="40%" align="right">
+<td width="35%" align="right">
 
 <img src="me.gif" width="260"/>
 
 </td>
+
 </tr>
 </table>
 
@@ -57,23 +59,6 @@
 <img src="https://img.shields.io/badge/Metasploit-Framework-2E8B57?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Wireshark-Packet%20Analysis-1679A7?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Cloud%20Security-Learning-6A5ACD?style=for-the-badge&logo=icloud" />
-
-</p>
-
----
-
-## ✍️ Dev Quote
-
-<p align="center">
-
-<i>
-“Every zero-day begins as a requirement no one questioned  
-and a decision no one revisited.”
-</i>
-
-<br><br>
-
-<b>— Nikshay Reddy</b>
 
 </p>
 
@@ -138,6 +123,23 @@ and a decision no one revisited.”
 <a href="https://www.linkedin.com/in/nikshay-reddy-19891b293/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
 </a>
+
+</p>
+
+---
+
+## 🛡 Cyber Quote
+
+<p align="center">
+
+<i>
+“Every zero-day begins as a requirement no one questioned  
+and a decision no one revisited.”
+</i>
+
+<br><br>
+
+<b>— Nikshay Reddy</b>
 
 </p>
 
