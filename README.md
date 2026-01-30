@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Nikshay Reddy</h1>
+<h1 align="center">Hi 💫 I'm Nikshay Reddy</h1>
 <h3 align="center">Application Engineer • Cloud Security Explorer • Cyber Builder</h3>
 
 <p align="center">
@@ -19,10 +19,21 @@
 
 ---
 
+## 🔐 Cybersecurity Focus
+
+- Web & Application Security fundamentals
+- OWASP Top 10 vulnerability awareness
+- Penetration testing practice labs
+- Secure coding principles
+- Authentication & API security
+- Cloud security basics
+
+---
+
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=androidstudio,react,aws,gcp,angular,bootstrap,c,cpp,cs,css,django,dotnet,express,fastapi,firebase,flask,git,html,java,js,kotlin,linux,mongodb,mysql,nodejs,php,postgres,postman,py,spring,tensorflow,ts,unity&perline=12" />
+<img src="https://skillicons.dev/icons?i=androidstudio,react,expo,vercel,supabase,aws,gcp,angular,bootstrap,c,cpp,cs,css,django,dotnet,express,fastapi,firebase,flask,git,html,java,js,kotlin,linux,mongodb,mysql,nodejs,php,postgres,postman,py,spring,tensorflow,ts,unity&perline=12" />
 </p>
 
 ---
