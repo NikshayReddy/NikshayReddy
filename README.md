@@ -30,6 +30,24 @@
 
 ---
 
+## 🛡 Cybersecurity Toolkit
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/OWASP-Top%2010-red?style=for-the-badge&logo=owasp" />
+<img src="https://img.shields.io/badge/Nessus-Vulnerability%20Scanner-00BFFF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Nmap-Network%20Scanning-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Aircrack--ng-WiFi%20Security-FF4500?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Burp%20Suite-Web%20Testing-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Kali%20Linux-Penetration%20OS-268BEE?style=for-the-badge&logo=kalilinux" />
+<img src="https://img.shields.io/badge/Metasploit-Framework-2E8B57?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Wireshark-Packet%20Analysis-1679A7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cloud%20Security-Learning-6A5ACD?style=for-the-badge&logo=icloud" />
+
+</p>
+
+---
+
 ## 🛠 Tech Stack
 
 <p align="center">
